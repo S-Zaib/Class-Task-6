@@ -1,0 +1,5 @@
+outs:
+- md5: 5775b61f4794adcd6dff44e73eb64486
+  size: 11434
+  hash: md5
+  path: suicide-rate-by-country-2024.csv
